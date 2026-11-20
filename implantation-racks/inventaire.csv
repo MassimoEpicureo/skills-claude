@@ -1,0 +1,17 @@
+Famille;Désignation;Caractéristiques;Quantité;Base de calcul
+Structure;Échelle de rive / portique;H 10 005 × P 1 100 mm · fût 80 mm;80;44 rives + 36 échelles de portique
+Structure;Échelle intermédiaire;H 8 500 × P 1 100 mm · fût 80 mm;64;144 échelles au total − 80 hautes
+Structure;Entretoise de cheminée;L 250 mm;251;72 paires d'échelles × 3 (× 4 sur les paires de 10 005 mm)
+Structure;Traverse de portique d'allée;L 3 000 mm (largeur d'allée);24;1 par ligne de portique, toutes les 2 alvéoles + extrémités
+Structure;Traverse de portique d'allée;L 3 314 mm (largeur d'allée);3;1 par ligne de portique, toutes les 2 alvéoles + extrémités
+Structure;Traverse de portique d'allée;L 3 315 mm (largeur d'allée);9;1 par ligne de portique, toutes les 2 alvéoles + extrémités
+Lisses;LISSE 3600×120×50 ECOLOG ORANGE;section 120×50 · 4 PAL / niveau;344;stock 346 → reliquat 2
+Lisses;LISSE 3600×110×50 ECOLOG ORANGE;section 110×50 · 4 PAL / niveau;296;stock 296 → stock soldé
+Lisses;LISSE 3600×110×50 C-LOG JAUNE;section 110×50 · 4 PAL / niveau;336;stock 334 → à commander 2
+Lisses;Goupille de sécurité;2 par lisse;1952;976 lisses × 2
+Équipement;Plateau fil;P 1100 mm · 4 par niveau;1952;122 alvéoles × 4 niveaux × 4 (−12 si poteaux P1/P2 confirmés)
+Équipement;Plateau fil 880 × 1100;passage pont / porte coupe-feu;0;aucun passage pont ni porte CF dans les alignements
+Équipement;Butée podium;1 par emplacement sur lisses · 4 niveaux;1952;1 par palette sur niveaux 1 à 4 (−12 si poteaux confirmés)
+Sécurité;Sabot de protection de pied;côté allée;144;1 par échelle, montant côté allée
+Sécurité;Protection de bout d'allée;pour rack double 2450 mm;22;11 racks doubles × 2 extrémités
+Ancrage;Goujon d'ancrage;échelles + sabots + protections;1328;144×4 échelles + 144×4 sabots + 22×8 protections
